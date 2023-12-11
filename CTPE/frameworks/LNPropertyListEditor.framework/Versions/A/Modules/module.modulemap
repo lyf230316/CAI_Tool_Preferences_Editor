@@ -1,0 +1,6 @@
+framework module LNPropertyListEditor {
+  umbrella header "LNPropertyListEditor.h"
+
+  export *
+  module * { export * }
+}

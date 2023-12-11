@@ -1,0 +1,3 @@
+[submodule "LNPropertyListEditor"]
+	path = LNPropertyListEditor
+	url = https://github.com/LeoNatan/LNPropertyListEditor.git
